@@ -19,7 +19,7 @@ BMI:
 * 96% of births in the data were delivered by mothers with a BMI between 18.5-49.9.
 
 Findings:
-* For women with a BMI between 18.5-49.9, BMI linearly predicted the rates of C-section so accurately, it looked like a toy problem!
+* For women with a BMI between 18.5-49.9, BMI linearly predicted the rates of C-section so accurately, it looks like a Google image of a regression!
 * The chances of C-section delivery are 1.17 times the mother's BMI. So of women with a BMI of 20, about 23% of them delivered via C-section.
 * This was with an OLS R-squared of 0.999!
 * Even including all of the birth data including extremely low BMIs below 18.5 and extremely high BMIs above 49.9, the OLS R-squared is still 0.967.
