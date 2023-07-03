@@ -26,8 +26,8 @@ Findings:
 
 * However like with all health risks, at the extremes there is much more variance in C-section rates due to exacerbating health factors.
 
-  See LMBMIVRATE.png for a scatter plot with the regression line. Interestingly, the linear prediciton stays stable even at class I, II, and III obesity as well as 10 BMI beyond that.
+See LMBMIVRATE.png for a scatter plot with the regression line. Interestingly, the linear prediciton stays stable even at class I, II, and III obesity as well as 10 BMI beyond that.
 
-  See LMBMIVRATE_scatter.png for a scatter plot including extreme BMI ranges, and note the increased rates of C-sections at the extremes that are not predicted well by a linear model.
+See LMBMIVRATE_scatter.png for a scatter plot including extreme BMI ranges, and note the increased rates of C-sections at the extremes that are not predicted well by a linear model.
 
   -Rukh
