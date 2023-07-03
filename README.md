@@ -1,7 +1,7 @@
 # BMI_C-Sections
-BMI linearly predicts probability of c-section
+BMI linearly predicts probability of c-section with an R-squared of 0.999!
 
-This project explores CDC births data to investigate variables that predict risk factors for delivery via Caesarian section.
+This project explores CDC birth data to investigate variables that predict risk factors for delivery via Caesarian section.
 
 Data:
 * 3.8M births
